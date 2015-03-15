@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		31B705E117F473B800CACEA7 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31B705E017F473B800CACEA7 /* Cocoa.framework */; };
 		31B705ED17F473B800CACEA7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 31B705EC17F473B800CACEA7 /* main.m */; };
+		4BD789771AB55175000B73FD /* Shape.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BD789761AB55175000B73FD /* Shape.m */; };
+		4BD7897A1AB5522F000B73FD /* Circle.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BD789791AB5522F000B73FD /* Circle.m */; };
+		4BD7897D1AB5555A000B73FD /* Button.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BD7897C1AB5555A000B73FD /* Button.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +23,12 @@
 		31B705E817F473B800CACEA7 /* MyFirstObjectiveCProgram-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyFirstObjectiveCProgram-Info.plist"; sourceTree = "<group>"; };
 		31B705EC17F473B800CACEA7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		31B705EE17F473B800CACEA7 /* MyFirstObjectiveCProgram-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MyFirstObjectiveCProgram-Prefix.pch"; sourceTree = "<group>"; };
+		4BD789751AB55175000B73FD /* Shape.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Shape.h; sourceTree = "<group>"; };
+		4BD789761AB55175000B73FD /* Shape.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Shape.m; sourceTree = "<group>"; };
+		4BD789781AB5522F000B73FD /* Circle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Circle.h; sourceTree = "<group>"; };
+		4BD789791AB5522F000B73FD /* Circle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Circle.m; sourceTree = "<group>"; };
+		4BD7897B1AB5555A000B73FD /* Button.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Button.h; sourceTree = "<group>"; };
+		4BD7897C1AB5555A000B73FD /* Button.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Button.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +84,12 @@
 			children = (
 				31B705E717F473B800CACEA7 /* Supporting Files */,
 				31B705EC17F473B800CACEA7 /* main.m */,
+				4BD789751AB55175000B73FD /* Shape.h */,
+				4BD789761AB55175000B73FD /* Shape.m */,
+				4BD789781AB5522F000B73FD /* Circle.h */,
+				4BD789791AB5522F000B73FD /* Circle.m */,
+				4BD7897B1AB5555A000B73FD /* Button.h */,
+				4BD7897C1AB5555A000B73FD /* Button.m */,
 			);
 			path = MyFirstObjectiveCProgram;
 			sourceTree = "<group>";
@@ -150,7 +165,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4BD7897A1AB5522F000B73FD /* Circle.m in Sources */,
 				31B705ED17F473B800CACEA7 /* main.m in Sources */,
+				4BD789771AB55175000B73FD /* Shape.m in Sources */,
+				4BD7897D1AB5555A000B73FD /* Button.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

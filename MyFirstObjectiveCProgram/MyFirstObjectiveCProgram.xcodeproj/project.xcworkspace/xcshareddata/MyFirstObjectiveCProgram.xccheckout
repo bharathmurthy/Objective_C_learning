@@ -10,31 +10,31 @@
 	<string>MyFirstObjectiveCProgram</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>7F35EB3B-0F3E-49C9-BED2-9AC616C3FB6F</key>
-		<string>ssh://github.com/turner/treehouse_intro_c_objective_c.git</string>
+		<key>A6F02F2D54C1901ABF0771E0149C7E6F221C476E</key>
+		<string>https://github.com/bharathmurthy/Objective_C_learning.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>xcode5/MyFirstObjectiveCProgram/MyFirstObjectiveCProgram.xcodeproj/project.xcworkspace</string>
+	<string>MyFirstObjectiveCProgram/MyFirstObjectiveCProgram.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>7F35EB3B-0F3E-49C9-BED2-9AC616C3FB6F</key>
-		<string>../../../..</string>
+		<key>A6F02F2D54C1901ABF0771E0149C7E6F221C476E</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/turner/treehouse_intro_c_objective_c.git</string>
+	<string>https://github.com/bharathmurthy/Objective_C_learning.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7F35EB3B-0F3E-49C9-BED2-9AC616C3FB6F</string>
+	<string>A6F02F2D54C1901ABF0771E0149C7E6F221C476E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>7F35EB3B-0F3E-49C9-BED2-9AC616C3FB6F</string>
+			<string>A6F02F2D54C1901ABF0771E0149C7E6F221C476E</string>
 			<key>IDESourceControlWCCName</key>
-			<string>code</string>
+			<string>Objective_C_learning</string>
 		</dict>
 	</array>
 </dict>
