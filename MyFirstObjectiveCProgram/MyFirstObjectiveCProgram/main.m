@@ -18,4 +18,7 @@ int main()
     c.radius = 5;
     NSLog(@"shape area %f",[c area]);
     return 0;
+    //composition a button using the base class
+    Button *b = [[Button alloc]init];
+    b.shape = c;
 }
